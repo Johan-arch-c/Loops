@@ -1,4 +1,4 @@
-n=int(input("enter the whole number that you want to find the sum of"))
+n=int(input("enter the whole number sum you wish to find"))
 sum=0
 for i in range(1,n+1):
     sum=sum+i
